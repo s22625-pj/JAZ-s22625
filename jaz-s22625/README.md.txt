@@ -1,0 +1,1 @@
+Problemy z metodą, aplikacja nie uruchamia się, pozostaję w nadzieji na pozytywną ocenę :)
